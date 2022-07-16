@@ -7,8 +7,9 @@
 
 • Implemented  text vectorization and ML based Cosine distance algorithm to develop recommender 
   system in Python and connected it to Front-end frameworks.
+  
   ![Screenshot (187)](https://user-images.githubusercontent.com/95232137/179363732-6a2f824e-7482-4361-a642-aeadbce6ab53.png)
-![Screenshot (186)](https://user-images.githubusercontent.com/95232137/179363747-e35a7cea-5789-4e1e-b21e-0c3004da0361.png)
+  ![Screenshot (186)](https://user-images.githubusercontent.com/95232137/179363747-e35a7cea-5789-4e1e-b21e-0c3004da0361.png)
 ![Screenshot (188)](https://user-images.githubusercontent.com/95232137/179363767-934c9624-4ea5-4fc6-bfb0-d0c76a5b064f.png)
 ![Screenshot (189)](https://user-images.githubusercontent.com/95232137/179363770-a70de3d6-d4ce-40ce-b474-cef90a0c052b.png)
 ![Screenshot (190)](https://user-images.githubusercontent.com/95232137/179363772-aaa98125-a24c-4738-adbf-9583fb406e03.png)
